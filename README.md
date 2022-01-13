@@ -20,4 +20,4 @@ _4_
 ⦁	12, od 0 do 4095.
 
 
-Komentar: Velikoproblemovsem imel z kodo. Vkodi sem moral tudi posebaj spremeniti ločlivost pretvorbe na 8 bitno, saj jo je prej zaznavalo kot 12 bitno kljub temu da je bil pod ADC zavihkom nastavljen na 8 bit.
+Komentar: Velikoproblemovsem imel z kodo. Vkodi sem moral tudi posebaj spremeniti ločlivost pretvorbe na 8 bitno, saj jo je prej zaznavalo kot 12 bitno kljub temu da je bil pod ADC zavihkom nastavljen na 8 bit. Pri delovanju pa zaradi slabega potenciometra vrednost ne gre do vrha.
